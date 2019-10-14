@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Maksaminen</title>
+    <link rel="stylesheet" href="css/maksu.css">
   </head>
   <body>
     <div class="navbar">
@@ -23,7 +24,7 @@
   <b>Viesti:</b><br>
   <input type="text"><br><br>
 </form>
-<button class="btn default"><a href="#">Maksa</a></button>
+  <a href="#" class="button">Maksa</a>
 </div>
 
   </body>

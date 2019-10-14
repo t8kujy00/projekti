@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Sisäänkirjautuminen</title>
+    <link rel="stylesheet" href="css/login.css">
   </head>
   <body>
     <div align="center">
@@ -12,16 +13,16 @@
     </div>
     <br>
     <div class="container">
-      <label for="nimi"><b>Käyttänimi</b></label>
+      <label for="nimi"><b>Käyttänimi</b></label><br>
       <input type="text" placeholder="Anna käyttäjänimi" name="nimi" required>
       <br><br>
 
 
 
-      <label for="salasana"><b>Salasana</b></label>
+      <label for="salasana"><b>Salasana</b></label><br>
       <input type="password" placeholder="Anna salasana" name="salasana" required>
       <br><br>
-      <button class="btn default"><a href="paasivu.php">Kirjaudu sisään</a></button>
+      <a href="paasivu.php" class="button">Kirjaudu sisään</a>
 
     </div>
     </form>

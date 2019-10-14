@@ -2,7 +2,8 @@
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <title>Tili</title>
+    <link rel="stylesheet" href="css/tili.css">
   </head>
   <body>
     <div class="navbar">
